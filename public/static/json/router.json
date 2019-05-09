@@ -1,0 +1,62 @@
+{
+    "data": {
+        "router": [
+            {
+                "name": "Dashboard",
+                "url": "/dashboard",
+                "redirect": "",
+                "title": "首页",
+                "icon": "home",
+                "children": null
+            },
+            {
+                "name": "example",
+                "url": "/example",
+                "redirect": "",
+                "title": "例子",
+                "icon": "home",
+                "children": [
+                    {
+                        "name": "common",
+                        "url": "common",
+                        "redirect": "",
+                        "title": "公共组件",
+                        "children":[
+                            {
+                                "name": "table",
+                                "url": "table",
+                                "redirect": "",
+                                "title": "Table",
+                                "children":null
+                            }
+                        ]
+                    }
+                ] 
+            },
+            {
+                "name": "auditManage",
+                "url": "/auditManage",
+                "redirect": "",
+                "title": "审核",
+                "icon": "auditIcon",
+                "children": [
+                    {
+                        "name": "partnerReview",
+                        "url": "partnerReview",
+                        "redirect": "",
+                        "title": "合作商审核",
+                        "children": [
+                            {
+                                "name": "partnerReview1",
+                                "url": "partnerReview1",
+                                "redirect": "",
+                                "title": "合作商审核1",
+                                "children": null
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

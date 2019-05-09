@@ -1,0 +1,36 @@
+{
+    "data": {
+        "router": [
+            {
+                "id": 1,
+                "name": "Example",
+                "url": "/example",
+                "redirect": "/example/table",
+                "title": "Example",
+                "icon": "example",
+                "children": [
+                    {
+                        "id": 2,
+                        "name": "partnerReview1",
+                        "url": "partnerReview1",
+                        "redirect": "",
+                        "title": "partnerReview1",
+                        "icon": "table",
+                        "children": null
+                    },
+                    {
+                        "id": 3,
+                        "name": "Tree",
+                        "code": null,
+                        "description": null,
+                        "url": "tree",
+                        "redirect": "",
+                        "title": "Tree",
+                        "icon": "tree",
+                        "children": null
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "type": "success",
+    "data": {
+        "token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImNyZWF0ZWQiOjE1NTcyOTI2Mjc2NDEsImV4cCI6MTU1Nzg5NzQyN30.24HB6-JmdATGoOvO3ql9MHeSuB23tnmnMBWp_I0NlTXpAUuCz-_Y9wBYdudBx1EV9QZkWsrZANfF6z6N8ZNFmw",
+        "name": "admin",
+        "avatar": "https://wpimg.wallstcn.com/f778738c-e4f8-4870-b634-56703b4acafe.gif"
+    },
+    "message": null
+}

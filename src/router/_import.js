@@ -16,6 +16,6 @@ const map = {
   table: () => import('@/views/example/common/table.vue'),
 
   Example: () => import('@/views/layout/Layout'),
-  Table: () => import('@/views/table/index'),
-  Tree: () => import('@/views/tree/index')
+  Tree: () => import('@/views/example/common/tree.vue')
+
 }
